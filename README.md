@@ -2,4 +2,4 @@
  Ativa ao receber email específico
 
 ## Imagem
-![notf-img](./notificador.PNG)
+![notf-img](./Notificador.PNG)

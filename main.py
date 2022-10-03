@@ -7,8 +7,8 @@ load_dotenv()
 
 login = os.getenv('login')
 senha = os.getenv('senha')
-entrada = 'https://mail.google.com/mail/u/0/#inbox'
 autor = os.getenv('autor')
+entrada = 'https://mail.google.com/mail/u/0/#inbox'
 
 
 # Integrando código no email

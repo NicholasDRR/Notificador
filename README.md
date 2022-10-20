@@ -1,7 +1,7 @@
 # Notificador
 ## Descrição
 
-Caso tenha algum novo email (não lido) do autor selecionado, ele envia uma notificação com Autor e Assunto.
+Caso tenha algum novo email (não lido) do autor selecionado, ele envia uma notificação com **autor** e **assunto**.
 
 ## Como Usar
 
